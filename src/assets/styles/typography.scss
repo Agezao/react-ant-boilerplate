@@ -1,0 +1,12 @@
+body {
+	font-size: 14px !important;
+}
+
+a {
+	text-decoration: none;
+	color: $link-color;
+
+	&:hover {
+		color: $primary-color;
+	}
+}
